@@ -2,4 +2,4 @@
 
 Repositorio creado para subir los trabajos de la asignatura de Arquitectura de Computadores
 DILAN ALESSANDRO CORREDOR DIAZ - 2191976
-![Yo xd](./dilan.jpeg)
+![Yo xd](/source/dilan.jpeg)
